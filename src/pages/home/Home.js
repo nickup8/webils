@@ -1,7 +1,5 @@
 import "./Home.sass";
 
-function Home() {
-	return <div className="home"></div>;
-}
+function Home() {}
 
 export default Home;
